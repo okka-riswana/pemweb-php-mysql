@@ -7,6 +7,8 @@
   <title>TEST</title>
 </head>
 <body>
-  Henlo
+
+<?php echo "<h1>Hello, world!</h1>"; ?>
+
 </body>
 </html>
